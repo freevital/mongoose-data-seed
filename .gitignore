@@ -2,8 +2,9 @@ node_modules/
 dist/
 coverage/
 .nyc_output/
+sandboxes/
 npm-debug.log
 .env
 .coveralls.yml
 .DS_Store
-
+package-lock.json
